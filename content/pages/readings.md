@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the readings assigned in the required textbook.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

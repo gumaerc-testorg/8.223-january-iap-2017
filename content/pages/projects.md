@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes a description of the final project required for
+  the course.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ Project 2016: Optimizing a Medieval Siege Engine
 
 This year's project will be aimed an using Lagrangian mechanics to understand a medieval marvel of engineering; the trebuchet.
 
-![Illustration of a counterweight trebuchet.]({{< resource_file 77de3c1e-7e4f-7d96-7b90-04601f81036b >}})
+{{< resource 77de3c1e-7e4f-7d96-7b90-04601f81036b >}}
 
 A counterweight trebuchet, a medieval compound machine. Students in this class have to build a small trebuchet demonstrate that it works. (Image by MIT OpenCourseWare.)
 
@@ -28,6 +30,6 @@ Note 2
 
 Grading 100 projects in a day or 2 will not be easy, so please turn in your project as soon as it is done. To add an incentive to this plea, I will give 3% extra credit for each day before the due date that you turn in your project, with a maximum of 30%.
 
-[Part 1: Analysis (PDF)]({{< baseurl >}}/resources/mit8_223iap17_projectpart1)
+{{% resource_link 331a40a6-0553-5656-4677-4fd4c31a0f3f "Part 1: Analysis (PDF)" %}}
 
-[Part 2: Follow Through (PDF)]({{< baseurl >}}/resources/mit8_223iap17_projectpart2)
+{{% resource_link 69a3051b-16e4-bb53-1e50-35a8d4ae7d81 "Part 2: Follow Through (PDF)" %}}
