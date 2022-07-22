@@ -5,6 +5,7 @@ file: /courses/8-223-classical-mechanics-ii-january-iap-2017/0c7f9715e2e0b47c1f0
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Classical Mechanics II, Problem Set 3
 uid: 0c7f9715-e2e0-b47c-1f04-40aa03a6bedf
 ---
 This file contains information regarding problem set 3.
-

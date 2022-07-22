@@ -5,6 +5,7 @@ file: /courses/8-223-classical-mechanics-ii-january-iap-2017/4cbda5044c52f233f28
 file_type: application/mathematica
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Damped_Pendulum.nb
 uid: 4cbda504-4c52-f233-f280-5200054e8b3e
 ---
 This file contains the information regarding damped driven pendulum.
-

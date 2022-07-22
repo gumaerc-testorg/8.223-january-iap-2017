@@ -5,6 +5,7 @@ file: /courses/8-223-classical-mechanics-ii-january-iap-2017/4991e17384bab84739f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

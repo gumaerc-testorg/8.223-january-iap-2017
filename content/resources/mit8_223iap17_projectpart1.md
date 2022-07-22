@@ -5,6 +5,7 @@ file: /courses/8-223-classical-mechanics-ii-january-iap-2017/331a40a605535656467
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Classical Mechanics II, Project Analysis
 uid: 331a40a6-0553-5656-4677-4fd4c31a0f3f
 ---
 This file contains information regarding project part 1.
-
