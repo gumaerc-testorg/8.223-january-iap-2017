@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding driven pendulum.
 file: /courses/8-223-classical-mechanics-ii-january-iap-2017/3cbe666d132e18fcb402a99d9596c8b2_Driven_Pendulum.nb
+file_size: 411459
 file_type: application/mathematica
 learning_resource_types:
 - Lecture Notes

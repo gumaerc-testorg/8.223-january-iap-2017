@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-223-classical-mechanics-ii-january-iap-2017/f00e15dd845244acf330ad24d9da7090_MIT8_223IAP17_Lec16.pdf
+file_size: 207697
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

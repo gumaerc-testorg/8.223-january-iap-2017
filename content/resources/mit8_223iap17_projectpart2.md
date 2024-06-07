@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains information regarding project part 2.
 file: /courses/8-223-classical-mechanics-ii-january-iap-2017/69a3051b16e4bb531e5035a8d4ae7d81_MIT8_223IAP17_ProjectPart2.pdf
+file_size: 718522
 file_type: application/pdf
 learning_resource_types:
 - Projects
