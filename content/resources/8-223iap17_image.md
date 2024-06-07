@@ -3,6 +3,7 @@ content_type: resource
 description: A counterweight trebuchet, a medieval compound machine. Students in this
   class have to build a small trebuchet demonstrate that it works. Image by MIT OpenCourseWare.
 file: /courses/8-223-classical-mechanics-ii-january-iap-2017/77de3c1e7e4f7d967b9004601f81036b_8.223iap17_image.jpg
+file_size: 47944
 file_type: image/jpeg
 image_metadata:
   caption: A counterweight trebuchet, a medieval compound machine. Students in this

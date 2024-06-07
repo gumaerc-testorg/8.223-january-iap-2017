@@ -2,6 +2,7 @@
 content_type: resource
 description: This file contains the information regarding solving equations of motion.
 file: /courses/8-223-classical-mechanics-ii-january-iap-2017/af3e5287066dadc5488e5051ad8565a7_EoM_NDSolve.nb
+file_size: 217594
 file_type: application/mathematica
 learning_resource_types:
 - Lecture Notes
