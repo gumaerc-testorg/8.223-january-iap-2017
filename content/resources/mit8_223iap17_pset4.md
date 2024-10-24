@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding problem set 4.
-file: /courses/8-223-classical-mechanics-ii-january-iap-2017/883108e5d6d4bae2cb0da1cd4460cea9_MIT8_223IAP17_pset4.pdf
+file: /ol-ocw-studio-app/courses/8-223-classical-mechanics-ii-january-iap-2017/883108e5d6d4bae2cb0da1cd4460cea9_MIT8_223IAP17_pset4.pdf
 file_size: 219356
 file_type: application/pdf
 learning_resource_types:
