@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding ramp with masses.
-file: /courses/8-223-classical-mechanics-ii-january-iap-2017/5f7833a5f69c3f78d7e07fce8f75d05e_Ramp_with_Masses.nb
+file: /ol-ocw-studio-app/courses/8-223-classical-mechanics-ii-january-iap-2017/5f7833a5f69c3f78d7e07fce8f75d05e_Ramp_with_Masses.nb
 file_size: 21059
 file_type: application/mathematica
 learning_resource_types:
