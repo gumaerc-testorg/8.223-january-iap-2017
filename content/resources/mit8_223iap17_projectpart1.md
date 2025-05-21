@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding project part 1.
-file: /ol-ocw-studio-app/courses/8-223-classical-mechanics-ii-january-iap-2017/331a40a60553565646774fd4c31a0f3f_MIT8_223IAP17_ProjectPart1.pdf
+file: /courses/8-223-classical-mechanics-ii-january-iap-2017/331a40a60553565646774fd4c31a0f3f_MIT8_223IAP17_ProjectPart1.pdf
 file_size: 620971
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding damped driven pendulum.
-file: /ol-ocw-studio-app/courses/8-223-classical-mechanics-ii-january-iap-2017/4cbda5044c52f233f2805200054e8b3e_Damped_Pendulum.nb
+file: /courses/8-223-classical-mechanics-ii-january-iap-2017/4cbda5044c52f233f2805200054e8b3e_Damped_Pendulum.nb
 file_size: 9079
 file_type: application/mathematica
 learning_resource_types:
