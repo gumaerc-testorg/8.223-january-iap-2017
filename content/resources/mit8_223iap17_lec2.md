@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-223-classical-mechanics-ii-january-iap-2017/9a2b9c0a146dca9bbac0d45363309c9a_MIT8_223IAP17_Lec2.pdf
+file: /ol-ocw-studio-app/courses/8-223-classical-mechanics-ii-january-iap-2017/9a2b9c0a146dca9bbac0d45363309c9a_MIT8_223IAP17_Lec2.pdf
 file_size: 345377
 file_type: application/pdf
 learning_resource_types:
