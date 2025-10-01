@@ -8,7 +8,7 @@ title: Readings
 uid: 95c91868-06b7-958f-3104-a7376b1197a8
 ---
 
-\[LL\] = Landau, Lev D., and Evgenij M. Lifshitz. _Mechanics: Course of Theoretical Physics_. Vol. 1. Butterworth-Heinemann, 1976. ISBN: 9780750628969. \[Preview with [Google Books](http://books.google.com/books?id=e-xASAehg1sC&pg=PAfrontcover)\]
+\[LL\] = Landau, Lev D., and Evgenij M. Lifshitz. _Mechanics: Course of Theoretical Physics_. Vol. 1. Butterworth-Heinemann, 1976. ISBN: 9780750628969. \[Preview with {{% resource_link "e9f339bd-3c83-465f-a7d3-e2804731d6e5" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -38,9 +38,9 @@ Lagrangian Mechanics
 
 \[LL\] Chapters 1–5: Part I The Equations of Motion.
 
-Feynman, Richard P. "[The Principle of Least Action](http://www.feynmanlectures.caltech.edu/II_19.html)." Chapter 19 in [_The Feynman Lectures on Physics._](http://www.feynmanlectures.caltech.edu/II_toc.html) Vol. 2. Addison Wesley, 1977. ISBN: 9780201021172.
+Feynman, Richard P. "{{% resource_link "12c241a9-f4af-4da7-a999-f59d0d68094b" "The Principle of Least Action" %}}." Chapter 19 in {{% resource_link "0100da54-0a71-453c-9961-2b8f0bd1f07a" "_The Feynman Lectures on Physics._" %}} Vol. 2. Addison Wesley, 1977. ISBN: 9780201021172.
 
-Gray, Charles G., and Edwin F. Taylor. "[When Action Is Not Least](https://doi.org/10.1119/1.2710480)." _American Journal of Physics_ 75, no. 5 (2007): 434–58.
+Gray, Charles G., and Edwin F. Taylor. "{{% resource_link "9671876d-b05c-4716-96de-b4d894792c34" "When Action Is Not Least" %}}." _American Journal of Physics_ 75, no. 5 (2007): 434–58.
 
 
 {{< tdclose >}}

@@ -39,7 +39,7 @@ Textbook
 
 ### Required
 
-Landau, Lev D., and Evgenij M. Lifshitz. _Mechanics: Course of Theoretical Physics_. Vol. 1. 3rd ed. Butterworth-Heinemann, 1976. ISBN: 9780750628969. \[Preview with [Google Books](http://books.google.com/books?id=e-xASAehg1sC&pg=PAfrontcover)\]
+Landau, Lev D., and Evgenij M. Lifshitz. _Mechanics: Course of Theoretical Physics_. Vol. 1. 3rd ed. Butterworth-Heinemann, 1976. ISBN: 9780750628969. \[Preview with {{% resource_link "e9f339bd-3c83-465f-a7d3-e2804731d6e5" "Google Books" %}}\]
 
 ### Suggested
 
